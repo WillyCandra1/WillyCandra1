@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst | Computer Science (Data Analytics) Student
 
-I'm a second-year Computer Science student at **Asia Pacific University (APU)**, on a dual-award program with **De Montfort University, UK**, currently holding a **CGPA of 3.91**. I'm passionate about turning raw data into decisions — cleaning it, querying it, modelling it, and presenting it in ways that actually drive action.
+I'm a second-year Computer Science student at **Asia Pacific University (APU)**, on a dual-award program with **De Montfort University, UK**, currently holding a **CGPA of 3.91**. I'm passionate about turning raw data into decisions, cleaning it, querying it, modelling it, and presenting it in ways that actually drive action.
 
 ---
 
