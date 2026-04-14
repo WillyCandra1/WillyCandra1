@@ -68,7 +68,9 @@ I'm a second-year Computer Science student at **Asia Pacific University (APU)**,
 
 ![Willy's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillyCandra1&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillyCandra1&layout=compact&theme=default&hide_border=true&langs_count=8&include_all_commits=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=WillyCandra1&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillyCandra1&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 ---
 
